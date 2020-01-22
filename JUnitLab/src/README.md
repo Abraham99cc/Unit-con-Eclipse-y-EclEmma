@@ -8,3 +8,4 @@ hemos creado la clase Suscripcion
 7. Probamos con el boton de EclEmma (Coverage as) y vemos el informe de cobertura del proyecto.
 8. Creamos una clase prueba, mejora la cobertura pero no totalmente.
 9. Creamos un constructor en el test pata solucionar totalmente la cobertura.
+10.

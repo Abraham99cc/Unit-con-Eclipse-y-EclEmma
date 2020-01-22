@@ -15,6 +15,7 @@ public class Subscription {
 			 precio = p ;        
 			 periodo = n ;     } 
 	 
+	
 	   /**       
 	    *  Calcula el precio de la subscripción mensual en euros,        
 	    *  redondeándolo por arriba al céntimo más cercano.       

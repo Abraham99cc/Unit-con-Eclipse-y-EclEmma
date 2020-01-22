@@ -13,7 +13,7 @@ class SubscriptionTest {
 		double resultado = s.precioPorMes();   
 		assertEquals (esperado, resultado,0) ; 
 	}
-	
+
 	@Test  
 	public void testprecioPorMes2() {   
 		double esperado=67;   
@@ -28,4 +28,5 @@ class SubscriptionTest {
 	 
 	 
 
+	
 }
